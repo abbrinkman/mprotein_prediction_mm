@@ -10,7 +10,7 @@ In silico prediction of M-protein derived clonotypic peptides (for Mass Spectro
 
 ### Authors
 
-P. Langerhorst, A. Brinkman, M.M van Duijn, J. Gloerich, B. Scheijen, J.F.M. Jacobs
+P. Langerhorst, A.B. Brinkman, M.M van Duijn, J. Gloerich, B. Scheijen, J.F.M. Jacobs
 
 ### Notes
 
