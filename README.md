@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Code used in this study:
 
-### How do I get set up? ###
+# Title
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+In silico prediction of M-protein derived clonotypic peptides (for Mass Spectrometric analysis) yields novel personalized biomarkers in multiple myeloma
 
-### Contribution guidelines ###
+# Authors
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+P. Langerhorst, A. Brinkman, M.M van Duijn, J. Gloerich, B. Scheijen, J.F.M. Jacobs
